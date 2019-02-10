@@ -16,5 +16,6 @@ Estrutura da API:
     *ConexaoBD: Classe Default para conexão com o BD
 
 	-Controllers: Classes que recebem a requisição e fazem o roteamento utilizando ApiController
-	
+
+Todas requisições funcionam no formato JSON
 Qualquer dúvida estou a disposição: ferangelfe@gmail.com
